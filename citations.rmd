@@ -1,0 +1,55 @@
+---
+title: "citations"
+author: "Iris Shao"
+date: "10/19/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# References 
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+\setlength{\parskip}{12pt}
+\noindent
+
+About Reaching Home: Canada's Homelessness Strategy. (2020, June 09). Retrieved October 20, 2020, from https://www.canada.ca/en/employment-social-development/programs/homelessness.html
+
+Auguie, B. (2017). *gridExtra: Miscellaneous Functions for "Grid" Graphics*. R package version 2.3. https://CRAN.R-project.org/package=gridExtra
+
+Bonikowska, A., Helliwell, J. F., Hou, F., &amp; Schellenberg, G. (2013). An Assessment of Life Satisfaction Responses on Recent Statistics Canada Surveys. *Social Indicators Research*, 118(2), 617-643. doi:10.1007/s11205-013-0437-1
+
+DSS - Interpreting Regression Output. (2007). Retrieved October 19, 2020, from https://dss.princeton.edu/online_help/analysis/interpreting_regression.htm
+
+DSS - Working with Dummy Variables. (2007). Retrieved October 19, 2020, from https://dss.princeton.edu/online_help/analysis/dummy_variables.htm
+
+Lumley, T. (2020) *survey: analysis of complex survey samples*. R package version 4.0. 
+
+Marschner, I. C. (2011). Glm2: Fitting Generalized Linear Models with Convergence Problems. *The R Journal*, 3(2), 12-15. doi:10.32614/rj-2011-012
+
+R Core Team (2019b). *R: A Language and Environment for Statistical Computing*. R Foundation for Statistical Computing, Vienna, Austria.
+
+Rech, N. (2019, April 29). Homelessness in Canada. Retrieved October 19, 2020, from https://thecanadianencyclopedia.ca/en/article/homelessness-in-canada
+
+Robinson, D., Hayes, A., and Couch, S. (2020). *broom: Convert Statistical Objects into Tidy Tibbles*. R package version 0.7.0. https://CRAN.R-project.org/package=broom
+
+Rohan, Alexander. 2020. "GSS_Cleaning".  STA304
+
+Sheather, S. J. (2010). *A Modern approach to regression with R*. New York: Springer.
+
+Statistics Canada. (2017, March 31). Canada at a Glance 2017. Retrieved October 19, 2020, from https://www150.statcan.gc.ca/n1/pub/12-581-x/2017000/pop-eng.htm
+
+Statistics Canada. (2020, April 30). General Social Survey – Family (GSS). Retrieved October 19, 2020, from https://www.statcan.gc.ca/eng/survey/household/4501
+
+Statistics Canada. (2020, May 26). Frequently asked questions. Retrieved October 20, 2020, from https://www.statcan.gc.ca/eng/survey/faq
+
+Sun, J., Harris, K., &amp; Vazire, S. (2019). Is well-being associated with the quantity and quality of social interactions? *Journal of Personality and Social Psychology*. doi:10.1037/pspp0000272
+
+Wickham et al., (2019). Welcome to the tidyverse. *Journal of Open Source Software*, 4(43), 1686, https://doi.org/10.21105/joss.01686 
+
+Wickham, H., François, R., Henry, L., and Müller, K. (2020). *dplyr: A Grammar of Data Manipulation*. R package version 1.0.0. https://CRAN.R-project.org/package=dplyr
+
+Wu, Changbao, and Mary E. Thompson. *Sampling Theory and Practice*. Springer, 2020. 
