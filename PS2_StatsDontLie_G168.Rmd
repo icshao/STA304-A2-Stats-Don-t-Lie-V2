@@ -218,6 +218,8 @@ Thirdly, during the classification of our household income fields, we treated th
 
 Lastly, the presence of confounders, as stated previously, can affect the life satisfaction scores. In a future study, there should be an incorporation of more predictor variables in the GLM. This will allow the model to be more informative. That is, life satisfaction scores are a subjective measure and there’s no true standardization of the variable. If an unfortunate event happened to the survey participant before the collection of data, it may affect the life satisfaction score given to scientists.
 
+\newpage
+
 *6.2 Next Steps*
 
 Family income and children are strongly linked with life satisfaction. Further studies could be useful to track life satisfaction scores as family income and family size change over time. Results may be useful for all levels of governments and policy makers to better understand the needs of Canadian families, as well as to implement relevant programs and initiatives that enhance life satisfaction in the general Canadian population.
